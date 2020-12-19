@@ -8,7 +8,7 @@
 Aprender o conceito de Flexbox e como utilizá-lo para criar uma página web responsiva.
 
 <h3 id="inspiracao">Inspiração</h3>
-O projeto foi construído com base no conteúdo do <a target="_blank" href="https://www.nodestudio.com.br/curso/curso-de-flexbox"> curso de Flexbox da Node Studio Treinamentos</a>.
+O projeto foi construído com base no conteúdo do <a href="https://www.nodestudio.com.br/curso/curso-de-flexbox" target="_blank"> curso de Flexbox da Node Studio Treinamentos</a>.
 
 ### Features
 
