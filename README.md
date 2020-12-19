@@ -18,9 +18,8 @@ O projeto foi construído com base no conteúdo do <a target="_blank" href="http
 
 <h3 id="objetivo">Telas para desktop e celular</h3>
 <p align="center">
-  <img style="border-radius: 5px" height="300" src="./gifs/desktop.gif" alt="Intro">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img style="border-radius: 5px" height="300" src="./gifs/celular.gif" alt="Intro">
+  <img style="border-radius: 5px" height="300" src="./gifs/celular.gif" alt="Tela celular">
+  <img style="border-radius: 5px" height="300" src="./gifs/desktop.gif" alt="Tela desktop">
 </p>
 
 ### Autora
